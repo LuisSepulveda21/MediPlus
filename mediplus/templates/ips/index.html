@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>IPS</title>
+    </head>
+<body>
+    <h1>Ips cercanas:</h1>
+    {% if ips %}
+    <ul>
+    {% for ips in ips %}
+        <li>
+        {{ ips.name }}: {{ips.distance}}
+        </li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+</body>
+</html>

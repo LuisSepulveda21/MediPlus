@@ -1,0 +1,1733 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.5 2ca3f387",
+  "osm3s": {
+    "timestamp_osm_base": "2019-02-17T16:28:02Z",
+    "timestamp_areas_base": "2019-02-17T15:46:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 836813218,
+      "lat": 10.9647816,
+      "lon": -74.8333265,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Hogar San Camilo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 836848318,
+      "lat": 10.9655895,
+      "lon": -74.8323748,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Centro San Camilo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2616280635,
+      "lat": 10.9631657,
+      "lon": -74.8392336,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Hospital El Pueblo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3836494887,
+      "lat": 10.9305938,
+      "lon": -74.800592,
+      "tags": {
+        "amenity": "hospital",
+        "name": "IPS FUNDACION GRUPO DE ESTUDIO BARRANQUILLA SEDE METROCENTRO"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3836494888,
+      "lat": 10.949019,
+      "lon": -74.8135937,
+      "tags": {
+        "amenity": "hospital",
+        "name": "IPS FUNDACION GRUPO DE ESTUDIO BARRANQUILLA SEDE CHILDREN SIERRITA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3836494889,
+      "lat": 10.9655283,
+      "lon": -74.7733285,
+      "tags": {
+        "amenity": "hospital",
+        "name": "IPS FUNDACION GRUPO DE ESTUDIO BARRANQUILLA SEDE CHILDREN REBOLO"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3836494890,
+      "lat": 10.9722566,
+      "lon": -74.7807963,
+      "tags": {
+        "amenity": "hospital",
+        "name": "FUNDACION GRUPO DE ESTUDIO BARRANQUILLA LAB. REYFALS SAN JOAQUIN"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3836494893,
+      "lat": 10.9370785,
+      "lon": -74.7794161,
+      "tags": {
+        "amenity": "hospital",
+        "name": "TOMA DE MUESTRA LABORATORIO REY FALS SIMON BOLIVAR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3836494894,
+      "lat": 10.9984795,
+      "lon": -74.8113423,
+      "tags": {
+        "amenity": "hospital",
+        "name": "QUIMIO SALUD LTDA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3836494896,
+      "lat": 10.9790996,
+      "lon": -74.8342088,
+      "tags": {
+        "amenity": "hospital",
+        "name": "FUNDACION GRABIELLA WILLE DE LOPEZ ?FUNDABELA?"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3836494903,
+      "lat": 10.9902607,
+      "lon": -74.8046888,
+      "tags": {
+        "amenity": "hospital",
+        "name": "SALUD TOTAL EPS S.A 20 DE JULIO"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3836494906,
+      "lat": 11.0002005,
+      "lon": -74.8144008,
+      "tags": {
+        "amenity": "hospital",
+        "name": "SALUD TOTAL EPS S.A UUBC REINA CATALINA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3836494907,
+      "lat": 10.9551547,
+      "lon": -74.8072239,
+      "tags": {
+        "amenity": "hospital",
+        "name": "SALUD TOTAL EPS S.A UUBC CORDIALIDAD"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3841076286,
+      "lat": 10.9426254,
+      "lon": -74.7877493,
+      "tags": {
+        "amenity": "hospital",
+        "name": "ips cemol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3843196677,
+      "lat": 10.9693537,
+      "lon": -74.8189055,
+      "tags": {
+        "addr:city": "Barranquilla",
+        "addr:housenumber": "CALLE 75 # 21B -04",
+        "addr:street": "Carrera 21B",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "IPS UNIVERSITARIA SEDE PASO NUEVA COLOMBIA",
+        "note": "No tiene ambulancia",
+        "operator": "Prioridad 3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3843252623,
+      "lat": 10.9664285,
+      "lon": -74.7745416,
+      "tags": {
+        "addr:city": "Barranquilla",
+        "addr:housenumber": "CALLE 16 #29-44",
+        "addr:street": "Calle 16",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "IPS UNIVERSITARIA SEDE PASO REBOLO",
+        "note": "Si tiene ambulancia",
+        "operator": "Prioridad 2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3843279259,
+      "lat": 10.9633048,
+      "lon": -74.809786,
+      "tags": {
+        "addr:housenumber": "CALLE 64 # 15 ESQUINA",
+        "addr:street": "Calle 64",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "IPS UNIVERSITARIA SEDE PASO VILLATE",
+        "note": "No tiene ambulancia",
+        "operator": "Prioridad 3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3843607664,
+      "lat": 10.9557131,
+      "lon": -74.8318714,
+      "tags": {
+        "addr:housenumber": "CALLE 99C # 9C - 33",
+        "addr:street": "Calle 99 C",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "IPS UNIVERSITARIA PASO LAS MALVINAS",
+        "note": "SI tiene ambulancia",
+        "operator": "Prioridad 3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3844577714,
+      "lat": 10.9522947,
+      "lon": -74.7793609,
+      "tags": {
+        "addr:city": "Barranquilla",
+        "addr:housenumber": "CRA. 14 # 24 -98",
+        "addr:street": "Carrera 14",
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "Puesto de salud (P.A.S.O) SEDE LAS NIEVES",
+        "operator": "Prioridad 2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3844589317,
+      "lat": 10.9514137,
+      "lon": -74.7771374,
+      "tags": {
+        "addr:city": "Barranquilla",
+        "addr:housenumber": "CALLE 23 # 11 - 19",
+        "addr:street": "Calle 23",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "IPS UNIVERSITARIA SEDE PASO LA LUZ",
+        "operator": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3844600340,
+      "lat": 10.9616438,
+      "lon": -74.7814169,
+      "tags": {
+        "addr:housenumber": "CRA 23 # 27 - 16",
+        "addr:street": "Carrera 23",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "IPS UNIVERSITARIA SEDE PASO JULIO MONTES",
+        "note": "Si tiene ambulancia",
+        "operator": "Prioridad 1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3844625051,
+      "lat": 10.9458123,
+      "lon": -74.7648229,
+      "tags": {
+        "addr:city": "Barranquilla",
+        "addr:housenumber": "CRA 7B # 5 - 05",
+        "addr:street": "Carrera 7 B",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "IPS UNIVERSITARIA SEDE PASO PRIMERO DE MAYO",
+        "note": "SI tiene ambulacia",
+        "operator": "Prioridad 3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3844662891,
+      "lat": 10.9646343,
+      "lon": -74.807779,
+      "tags": {
+        "addr:housenumber": "CRA 16A # 63C - 120",
+        "addr:street": "Carrera 16 A",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "IPS UNIVERSITARIA SEDE PASO BUENA ESPERANZA",
+        "note": "Punto de atenciòn en salud oportuno y ambulatorio",
+        "operator": "Prioridad 3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3844709841,
+      "lat": 10.9369994,
+      "lon": -74.7901706,
+      "tags": {
+        "addr:housenumber": "CRA 2B # 36B - 55",
+        "addr:street": "Carrera 2 B",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "IPS UNIVERSITARIA SEDE PASO GALAN",
+        "operator": "Prioridad 3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3844709842,
+      "lat": 10.9349762,
+      "lon": -74.7961521,
+      "tags": {
+        "addr:city": "Barranquilla",
+        "addr:housenumber": "CRA 2B # 41 - 223",
+        "addr:street": "Carrera 2 B",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "IPS UNIVERSITARIA SEDE PASO VILLANUEVA",
+        "note": "Si tiene ambulancia",
+        "operator": "Prioridad 3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3844860965,
+      "lat": 10.9704772,
+      "lon": -74.8005102,
+      "tags": {
+        "addr:city": "Barranquilla",
+        "addr:street": "Calle 57",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "DMM DIPROMEDICAL ANDINA IPS S.A.S",
+        "note": "Prioridad III, Prioridad II, Prioridad I, Ambulancia especializada, Ambulancia basica."
+      }
+    },
+    {
+      "type": "node",
+      "id": 3844943432,
+      "lat": 10.9752279,
+      "lon": -74.8139539,
+      "tags": {
+        "addr:city": "Barranquilla",
+        "addr:housenumber": "CARRERA 25B#73-17",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "IPS UNIVERSITARIA SEDE CARLOS MEISEL II",
+        "note": "Si tiene ambulancia",
+        "operator": "Prioridad 2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3844970553,
+      "lat": 10.9894158,
+      "lon": -74.7770148,
+      "tags": {
+        "addr:city": "Barranquilla",
+        "addr:housenumber": "CARRERA 50#9-41",
+        "addr:street": "Carrera 50",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "IPS UNIVERSITARIA SEDE PASO BARLOVENTO",
+        "note": "Si tiene ambulancia",
+        "operator": "Prioridad 2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3845027907,
+      "lat": 10.9619529,
+      "lon": -74.7900314,
+      "tags": {
+        "addr:city": "Barranquilla",
+        "addr:housenumber": "Carrera 21 nº 39 - 59",
+        "addr:street": "Calle 39",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "IPS UNIVERSITARIA SEDE PASO LA UNIÓN - SAN JOSE",
+        "note": "Si tiene ambulancia",
+        "operator": "Prioridad 2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3845061392,
+      "lat": 10.9781297,
+      "lon": -74.8258985,
+      "tags": {
+        "addr:city": "Barranquilla",
+        "addr:housenumber": "CRA 27 # 83 - 116",
+        "addr:street": "Calle 83",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "IPS UNIVERSITARIA SEDE PASO NUEVA ERA",
+        "note": "Si tiene ambulacia",
+        "operator": "Prioridad 2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3845406010,
+      "lat": 11.024175,
+      "lon": -74.8036944,
+      "tags": {
+        "addr:city": "Barranquilla",
+        "addr:housenumber": "Calle 84#80-30",
+        "addr:street": "Carrera 80",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "IPS UNIVERSITARIA SEDE PASO SAN SALVADOR",
+        "note": "Si tiene ambulancia",
+        "operator": "Prioridad 3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3845437039,
+      "lat": 10.9361058,
+      "lon": -74.8281186,
+      "tags": {
+        "addr:housenumber": "CALLE 96 # 1G - ESQUINA",
+        "addr:street": "Carrera 1 G",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "IPS UNIVERSITARIA SEDE PASO UNIVERSAL",
+        "note": "Si tiene ambulancia",
+        "operator": "Prioridad 3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3845462106,
+      "lat": 10.9584337,
+      "lon": -74.8281154,
+      "tags": {
+        "addr:city": "Barranquilla",
+        "addr:housenumber": "Calle 98 #9G-10",
+        "addr:street": "Carrera 9 G",
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "Centro de recuperación nutricional ROSOUR 7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5321343425,
+      "lat": 11.0025321,
+      "lon": -74.8164194,
+      "tags": {
+        "addr:city": "Barranquilla",
+        "addr:street": "Carrera 49C #82-70",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "oncology;general;surgery",
+        "name": "ORGANIZACION CLINICA BONNADONA PREVENIR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5661381727,
+      "lat": 10.9837027,
+      "lon": -74.7986478,
+      "tags": {
+        "amenity": "hospital",
+        "description": "Clinica ",
+        "healthcare": "hospital",
+        "name": "Clínica La Merced"
+      }
+    },
+    {
+      "type": "way",
+      "id": 148111400,
+      "nodes": [
+        1612133331,
+        2361009128,
+        2361009127,
+        1612133333,
+        1612133332,
+        1612133334,
+        1612133331
+      ],
+      "tags": {
+        "addr:street": "Carrera 23",
+        "amenity": "hospital",
+        "building": "yes",
+        "emergency": "no",
+        "name": "Hospital Universitario CARI E.S.E. (Sede Alta Complejidad)",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 183373129,
+      "nodes": [
+        5412591523,
+        5412591522,
+        5412591521,
+        5412591529,
+        5412589820,
+        5412591523
+      ],
+      "tags": {
+        "addr:city": "Barranquilla",
+        "addr:housenumber": "CALLE 23 No 5 -50",
+        "addr:street": "Carrera 5",
+        "amenity": "hospital",
+        "building": "yes",
+        "emergency": "yes",
+        "name": "IPS Universitaria Camino Simón Bolivar",
+        "note": "Si tiene ambulancia",
+        "operator": "Prioridad 3",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 336553105,
+      "nodes": [
+        3435845690,
+        3435856883,
+        3435856884,
+        4412304800,
+        4412304801,
+        3435845690
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "name": "clinica Cervantes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 374953489,
+      "nodes": [
+        3783362119,
+        3783362120,
+        3783362121,
+        3783362122,
+        3783362123,
+        3783362124,
+        3783362125,
+        3783362126,
+        3783362119
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "name": "Hospital general"
+      }
+    },
+    {
+      "type": "way",
+      "id": 375099131,
+      "nodes": [
+        3784885795,
+        3784885809,
+        3784885812,
+        3784885795
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "name": "IPS PREVENIR DEL CARIBE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 375492563,
+      "nodes": [
+        3788513926,
+        3788513925,
+        3788513932,
+        3788513931,
+        3788513930,
+        3788513929,
+        3788513928,
+        3788513927,
+        3788513926
+      ],
+      "tags": {
+        "amenity": "hospital"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405736831,
+      "nodes": [
+        4078847073,
+        4078847074,
+        4078847075,
+        4078847076,
+        4078847073
+      ],
+      "tags": {
+        "addr:street": "Calle 50",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "Camino Adelita de Char",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 409804333,
+      "nodes": [
+        4116826387,
+        4116826388,
+        4116826689,
+        4116826690,
+        4116826692,
+        4116826387
+      ],
+      "tags": {
+        "addr:city": "Barranquilla, Atlántico",
+        "addr:housenumber": "+57 5 3564455",
+        "addr:postcode": "+57",
+        "addr:street": "Calle 70 No. 48 - 35",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "Clínica General del Norte"
+      }
+    },
+    {
+      "type": "way",
+      "id": 412283949,
+      "nodes": [
+        4137553442,
+        5413255737,
+        4137553443,
+        5413255738,
+        4137553444,
+        4137553445,
+        4137553446,
+        4137536454,
+        4137536453,
+        4137553442
+      ],
+      "tags": {
+        "addr:street": "Carrera 42F",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "Metropolitano",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 455589647,
+      "nodes": [
+        638750702,
+        4519798628,
+        4519798629,
+        4519798630,
+        4519798631,
+        4519798632,
+        4519798633,
+        4519798634,
+        349355718,
+        624997153,
+        624997135,
+        1185558874,
+        1185558816,
+        1185558861,
+        638750702
+      ],
+      "tags": {
+        "addr:city": "Barranquilla",
+        "addr:housenumber": "#14 - 20",
+        "addr:street": "Calle 31",
+        "amenity": "hospital",
+        "name": "Fundación Clínica Campbell",
+        "phone": "+ 57 317 400 9929"
+      }
+    },
+    {
+      "type": "way",
+      "id": 483853885,
+      "nodes": [
+        4766008639,
+        4766008641,
+        4766008642,
+        4766008643,
+        4766008639
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "name": "OdontoVida"
+      }
+    },
+    {
+      "type": "way",
+      "id": 483853886,
+      "nodes": [
+        4766008642,
+        4766008633,
+        4766008640,
+        4766008643,
+        4766008642
+      ],
+      "tags": {
+        "amenity": "hospital"
+      }
+    },
+    {
+      "type": "way",
+      "id": 503144460,
+      "nodes": [
+        4934810243,
+        4934810244,
+        4934810245,
+        4934810246,
+        4934810247,
+        4934810248,
+        4934810249,
+        4934810250,
+        4934810251,
+        4934810252,
+        4934810253,
+        4934810254,
+        4934810255,
+        4934810243
+      ],
+      "tags": {
+        "amenity": "hospital"
+      }
+    },
+    {
+      "type": "way",
+      "id": 544913155,
+      "nodes": [
+        5267022322,
+        5267029235,
+        5267029236,
+        5267022321,
+        5267029237,
+        5267022322
+      ],
+      "tags": {
+        "addr:city": "Barranquilla",
+        "addr:postcode": "080004",
+        "addr:street": "Calle 16",
+        "addr:unit": "28 - 80",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "emergency",
+        "name": "P.A.S.O. Rebolo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 561059412,
+      "nodes": [
+        5410372112,
+        5410372111,
+        5410372110,
+        5410372107,
+        5410372108,
+        5410372109,
+        5410372112
+      ],
+      "tags": {
+        "addr:street": "Calle 68",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "Cruz Roja Colombiana",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 561059414,
+      "nodes": [
+        5410373322,
+        5410373321,
+        5410372114,
+        5410372115,
+        5410372116,
+        5410372120,
+        5410372119,
+        5410372117,
+        5410372113,
+        5410372118,
+        5410373322
+      ],
+      "tags": {
+        "addr:street": "Calle 68",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "Cruz Roja Colombiana",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 561059417,
+      "nodes": [
+        5410373340,
+        5410373339,
+        5410373333,
+        5410373338,
+        5410373334,
+        5410373335,
+        5410373336,
+        5410373337,
+        5410373340
+      ],
+      "tags": {
+        "addr:street": "Calle 65",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "Vidacoop Alta Complejidad",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 561328801,
+      "nodes": [
+        5412801189,
+        5412801186,
+        5412801187,
+        5412801188,
+        5412801189
+      ],
+      "tags": {
+        "addr:street": "Calle 82",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "Clínica Reina Catalina",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 561838084,
+      "nodes": [
+        5416954716,
+        5416954715,
+        5416954714,
+        5416954710,
+        5416954709,
+        5416954707,
+        5416954706,
+        5416954705,
+        5416954704,
+        5416954708,
+        5416954711,
+        5416954712,
+        5416954713,
+        5416954716
+      ],
+      "tags": {
+        "addr:street": "Carrera 21",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "Hospital La Manga",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 561861834,
+      "nodes": [
+        5417176009,
+        5417176008,
+        5417176007,
+        5417176006,
+        5417176005,
+        5417176004,
+        5417176003,
+        5417176002,
+        5417176001,
+        5417176000,
+        5417176009
+      ],
+      "tags": {
+        "addr:street": "Avenida Calle 45",
+        "amenity": "hospital",
+        "building": "yes",
+        "emergency": "yes",
+        "name": "Clínica Murillo",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4934810243,
+      "lat": 10.9363135,
+      "lon": -74.828038
+    },
+    {
+      "type": "node",
+      "id": 4934810244,
+      "lat": 10.9363052,
+      "lon": -74.8282338
+    },
+    {
+      "type": "node",
+      "id": 4934810245,
+      "lat": 10.935973,
+      "lon": -74.8282058
+    },
+    {
+      "type": "node",
+      "id": 4934810246,
+      "lat": 10.935973,
+      "lon": -74.8281778
+    },
+    {
+      "type": "node",
+      "id": 4934810247,
+      "lat": 10.9359072,
+      "lon": -74.8281806
+    },
+    {
+      "type": "node",
+      "id": 4934810248,
+      "lat": 10.9359017,
+      "lon": -74.8282338
+    },
+    {
+      "type": "node",
+      "id": 4934810249,
+      "lat": 10.9358495,
+      "lon": -74.8282226
+    },
+    {
+      "type": "node",
+      "id": 4934810250,
+      "lat": 10.9358605,
+      "lon": -74.8279681
+    },
+    {
+      "type": "node",
+      "id": 4934810251,
+      "lat": 10.9359126,
+      "lon": -74.8280073
+    },
+    {
+      "type": "node",
+      "id": 4934810252,
+      "lat": 10.9361433,
+      "lon": -74.8280157
+    },
+    {
+      "type": "node",
+      "id": 4934810253,
+      "lat": 10.9361487,
+      "lon": -74.8279793
+    },
+    {
+      "type": "node",
+      "id": 4934810254,
+      "lat": 10.9362009,
+      "lon": -74.8279821
+    },
+    {
+      "type": "node",
+      "id": 4934810255,
+      "lat": 10.9362036,
+      "lon": -74.8280296
+    },
+    {
+      "type": "node",
+      "id": 5416954704,
+      "lat": 10.9701287,
+      "lon": -74.8235357
+    },
+    {
+      "type": "node",
+      "id": 5416954705,
+      "lat": 10.9700932,
+      "lon": -74.8235042
+    },
+    {
+      "type": "node",
+      "id": 5416954706,
+      "lat": 10.970161,
+      "lon": -74.8234284
+    },
+    {
+      "type": "node",
+      "id": 5416954707,
+      "lat": 10.9703223,
+      "lon": -74.8235451
+    },
+    {
+      "type": "node",
+      "id": 5416954708,
+      "lat": 10.9700748,
+      "lon": -74.8236068
+    },
+    {
+      "type": "node",
+      "id": 5416954709,
+      "lat": 10.970367,
+      "lon": -74.8234586
+    },
+    {
+      "type": "node",
+      "id": 5416954710,
+      "lat": 10.9705119,
+      "lon": -74.8235397
+    },
+    {
+      "type": "node",
+      "id": 5416954711,
+      "lat": 10.97029,
+      "lon": -74.8237617
+    },
+    {
+      "type": "node",
+      "id": 5416954712,
+      "lat": 10.970394,
+      "lon": -74.8238046
+    },
+    {
+      "type": "node",
+      "id": 5416954713,
+      "lat": 10.9704045,
+      "lon": -74.8237719
+    },
+    {
+      "type": "node",
+      "id": 5416954714,
+      "lat": 10.9705059,
+      "lon": -74.8235553
+    },
+    {
+      "type": "node",
+      "id": 5416954715,
+      "lat": 10.9706126,
+      "lon": -74.8235893
+    },
+    {
+      "type": "node",
+      "id": 5416954716,
+      "lat": 10.9705487,
+      "lon": -74.8238126
+    },
+    {
+      "type": "node",
+      "id": 5412589820,
+      "lat": 10.9438103,
+      "lon": -74.7782614
+    },
+    {
+      "type": "node",
+      "id": 5412591521,
+      "lat": 10.9436458,
+      "lon": -74.7778995
+    },
+    {
+      "type": "node",
+      "id": 5412591522,
+      "lat": 10.9432858,
+      "lon": -74.7780692
+    },
+    {
+      "type": "node",
+      "id": 5412591523,
+      "lat": 10.9434503,
+      "lon": -74.7784311
+    },
+    {
+      "type": "node",
+      "id": 5412591529,
+      "lat": 10.9436863,
+      "lon": -74.7779884
+    },
+    {
+      "type": "node",
+      "id": 3784885795,
+      "lat": 10.9526801,
+      "lon": -74.7977629
+    },
+    {
+      "type": "node",
+      "id": 3784885809,
+      "lat": 10.9526711,
+      "lon": -74.7977563
+    },
+    {
+      "type": "node",
+      "id": 3784885812,
+      "lat": 10.9527492,
+      "lon": -74.797682
+    },
+    {
+      "type": "node",
+      "id": 3788513925,
+      "lat": 10.9489639,
+      "lon": -74.7996908
+    },
+    {
+      "type": "node",
+      "id": 3788513926,
+      "lat": 10.9492193,
+      "lon": -74.7997002
+    },
+    {
+      "type": "node",
+      "id": 3788513927,
+      "lat": 10.9492443,
+      "lon": -74.7994762
+    },
+    {
+      "type": "node",
+      "id": 3788513928,
+      "lat": 10.9492509,
+      "lon": -74.799204
+    },
+    {
+      "type": "node",
+      "id": 3788513929,
+      "lat": 10.9492615,
+      "lon": -74.798925
+    },
+    {
+      "type": "node",
+      "id": 3788513930,
+      "lat": 10.9491825,
+      "lon": -74.798929
+    },
+    {
+      "type": "node",
+      "id": 3788513931,
+      "lat": 10.9490969,
+      "lon": -74.7991959
+    },
+    {
+      "type": "node",
+      "id": 3788513932,
+      "lat": 10.94901,
+      "lon": -74.7993797
+    },
+    {
+      "type": "node",
+      "id": 5417176000,
+      "lat": 10.9607984,
+      "lon": -74.7940742
+    },
+    {
+      "type": "node",
+      "id": 5417176001,
+      "lat": 10.9609002,
+      "lon": -74.7943284
+    },
+    {
+      "type": "node",
+      "id": 5417176002,
+      "lat": 10.960672,
+      "lon": -74.7944233
+    },
+    {
+      "type": "node",
+      "id": 5417176003,
+      "lat": 10.960503,
+      "lon": -74.7940012
+    },
+    {
+      "type": "node",
+      "id": 5417176004,
+      "lat": 10.9606141,
+      "lon": -74.7939551
+    },
+    {
+      "type": "node",
+      "id": 5417176005,
+      "lat": 10.9605991,
+      "lon": -74.7939175
+    },
+    {
+      "type": "node",
+      "id": 5417176006,
+      "lat": 10.9606594,
+      "lon": -74.7938924
+    },
+    {
+      "type": "node",
+      "id": 5417176007,
+      "lat": 10.9606712,
+      "lon": -74.7939218
+    },
+    {
+      "type": "node",
+      "id": 5417176008,
+      "lat": 10.9608049,
+      "lon": -74.7938662
+    },
+    {
+      "type": "node",
+      "id": 5417176009,
+      "lat": 10.9608754,
+      "lon": -74.7940423
+    },
+    {
+      "type": "node",
+      "id": 4078847073,
+      "lat": 10.9652454,
+      "lon": -74.7986199
+    },
+    {
+      "type": "node",
+      "id": 4078847074,
+      "lat": 10.9657904,
+      "lon": -74.7977536
+    },
+    {
+      "type": "node",
+      "id": 4078847075,
+      "lat": 10.965327,
+      "lon": -74.7972761
+    },
+    {
+      "type": "node",
+      "id": 4078847076,
+      "lat": 10.9645765,
+      "lon": -74.798054
+    },
+    {
+      "type": "node",
+      "id": 1612133331,
+      "lat": 10.9699376,
+      "lon": -74.7998747
+    },
+    {
+      "type": "node",
+      "id": 1612133332,
+      "lat": 10.9712538,
+      "lon": -74.8011364
+    },
+    {
+      "type": "node",
+      "id": 1612133333,
+      "lat": 10.9711805,
+      "lon": -74.7997809
+    },
+    {
+      "type": "node",
+      "id": 1612133334,
+      "lat": 10.9700373,
+      "lon": -74.8011901
+    },
+    {
+      "type": "node",
+      "id": 2361009127,
+      "lat": 10.9705011,
+      "lon": -74.7997943
+    },
+    {
+      "type": "node",
+      "id": 2361009128,
+      "lat": 10.9705011,
+      "lon": -74.7998828
+    },
+    {
+      "type": "node",
+      "id": 349355718,
+      "lat": 10.9527422,
+      "lon": -74.7865964
+    },
+    {
+      "type": "node",
+      "id": 624997135,
+      "lat": 10.952084,
+      "lon": -74.7874021
+    },
+    {
+      "type": "node",
+      "id": 624997153,
+      "lat": 10.9523988,
+      "lon": -74.7864626
+    },
+    {
+      "type": "node",
+      "id": 638750702,
+      "lat": 10.9529386,
+      "lon": -74.788543
+    },
+    {
+      "type": "node",
+      "id": 1185558816,
+      "lat": 10.9525846,
+      "lon": -74.7876409
+    },
+    {
+      "type": "node",
+      "id": 1185558861,
+      "lat": 10.9527355,
+      "lon": -74.7878281
+    },
+    {
+      "type": "node",
+      "id": 1185558874,
+      "lat": 10.9523708,
+      "lon": -74.7874904
+    },
+    {
+      "type": "node",
+      "id": 4519798628,
+      "lat": 10.9532342,
+      "lon": -74.7881646
+    },
+    {
+      "type": "node",
+      "id": 4519798629,
+      "lat": 10.9529643,
+      "lon": -74.7873882
+    },
+    {
+      "type": "node",
+      "id": 4519798630,
+      "lat": 10.9528853,
+      "lon": -74.7872353
+    },
+    {
+      "type": "node",
+      "id": 4519798631,
+      "lat": 10.9527036,
+      "lon": -74.7871763
+    },
+    {
+      "type": "node",
+      "id": 4519798632,
+      "lat": 10.9526746,
+      "lon": -74.7870153
+    },
+    {
+      "type": "node",
+      "id": 4519798633,
+      "lat": 10.9526799,
+      "lon": -74.7867525
+    },
+    {
+      "type": "node",
+      "id": 4519798634,
+      "lat": 10.9527167,
+      "lon": -74.7867525
+    },
+    {
+      "type": "node",
+      "id": 3783362119,
+      "lat": 10.9739421,
+      "lon": -74.7803179
+    },
+    {
+      "type": "node",
+      "id": 3783362120,
+      "lat": 10.9735706,
+      "lon": -74.7804307
+    },
+    {
+      "type": "node",
+      "id": 3783362121,
+      "lat": 10.9735063,
+      "lon": -74.780256
+    },
+    {
+      "type": "node",
+      "id": 3783362122,
+      "lat": 10.9734598,
+      "lon": -74.7802706
+    },
+    {
+      "type": "node",
+      "id": 3783362123,
+      "lat": 10.9734063,
+      "lon": -74.7801796
+    },
+    {
+      "type": "node",
+      "id": 3783362124,
+      "lat": 10.9736135,
+      "lon": -74.7801068
+    },
+    {
+      "type": "node",
+      "id": 3783362125,
+      "lat": 10.9736385,
+      "lon": -74.7801869
+    },
+    {
+      "type": "node",
+      "id": 3783362126,
+      "lat": 10.9738421,
+      "lon": -74.7801032
+    },
+    {
+      "type": "node",
+      "id": 5267022321,
+      "lat": 10.966178,
+      "lon": -74.7745166
+    },
+    {
+      "type": "node",
+      "id": 5267022322,
+      "lat": 10.9661462,
+      "lon": -74.7740837
+    },
+    {
+      "type": "node",
+      "id": 5267029235,
+      "lat": 10.9663743,
+      "lon": -74.7740695
+    },
+    {
+      "type": "node",
+      "id": 5267029236,
+      "lat": 10.9664953,
+      "lon": -74.7744945
+    },
+    {
+      "type": "node",
+      "id": 5267029237,
+      "lat": 10.9661615,
+      "lon": -74.7742885
+    },
+    {
+      "type": "node",
+      "id": 5412801186,
+      "lat": 11.0014541,
+      "lon": -74.8159308
+    },
+    {
+      "type": "node",
+      "id": 5412801187,
+      "lat": 11.0014963,
+      "lon": -74.8161789
+    },
+    {
+      "type": "node",
+      "id": 5412801188,
+      "lat": 11.0016431,
+      "lon": -74.8160805
+    },
+    {
+      "type": "node",
+      "id": 4766008633,
+      "lat": 11.0109461,
+      "lon": -74.8285672
+    },
+    {
+      "type": "node",
+      "id": 4766008639,
+      "lat": 11.0109381,
+      "lon": -74.8288076
+    },
+    {
+      "type": "node",
+      "id": 4766008640,
+      "lat": 11.0108434,
+      "lon": -74.8286215
+    },
+    {
+      "type": "node",
+      "id": 4766008641,
+      "lat": 11.0110409,
+      "lon": -74.8287533
+    },
+    {
+      "type": "node",
+      "id": 4766008642,
+      "lat": 11.0109993,
+      "lon": -74.8286717
+    },
+    {
+      "type": "node",
+      "id": 4766008643,
+      "lat": 11.0108966,
+      "lon": -74.828726
+    },
+    {
+      "type": "node",
+      "id": 5410373333,
+      "lat": 10.9760866,
+      "lon": -74.8063602
+    },
+    {
+      "type": "node",
+      "id": 5410373334,
+      "lat": 10.9759405,
+      "lon": -74.8065707
+    },
+    {
+      "type": "node",
+      "id": 5410373335,
+      "lat": 10.9759615,
+      "lon": -74.8066539
+    },
+    {
+      "type": "node",
+      "id": 5410373336,
+      "lat": 10.9761445,
+      "lon": -74.8065586
+    },
+    {
+      "type": "node",
+      "id": 5410373337,
+      "lat": 10.976175,
+      "lon": -74.8066333
+    },
+    {
+      "type": "node",
+      "id": 5410373338,
+      "lat": 10.976121,
+      "lon": -74.806471
+    },
+    {
+      "type": "node",
+      "id": 5410373339,
+      "lat": 10.9762354,
+      "lon": -74.8063146
+    },
+    {
+      "type": "node",
+      "id": 5410373340,
+      "lat": 10.9763229,
+      "lon": -74.8065627
+    },
+    {
+      "type": "node",
+      "id": 5410372107,
+      "lat": 10.9821747,
+      "lon": -74.8031549
+    },
+    {
+      "type": "node",
+      "id": 5410372108,
+      "lat": 10.9821471,
+      "lon": -74.8032662
+    },
+    {
+      "type": "node",
+      "id": 5410372109,
+      "lat": 10.9821466,
+      "lon": -74.8033411
+    },
+    {
+      "type": "node",
+      "id": 5410372111,
+      "lat": 10.9825249,
+      "lon": -74.8028183
+    },
+    {
+      "type": "node",
+      "id": 5410372112,
+      "lat": 10.9825183,
+      "lon": -74.8033319
+    },
+    {
+      "type": "node",
+      "id": 5410372113,
+      "lat": 10.9819193,
+      "lon": -74.8034754
+    },
+    {
+      "type": "node",
+      "id": 5410372114,
+      "lat": 10.9817376,
+      "lon": -74.8034728
+    },
+    {
+      "type": "node",
+      "id": 5410372115,
+      "lat": 10.981785,
+      "lon": -74.8034721
+    },
+    {
+      "type": "node",
+      "id": 5410372116,
+      "lat": 10.9817738,
+      "lon": -74.8036954
+    },
+    {
+      "type": "node",
+      "id": 5410372117,
+      "lat": 10.9819048,
+      "lon": -74.8037058
+    },
+    {
+      "type": "node",
+      "id": 5410372118,
+      "lat": 10.9819706,
+      "lon": -74.8034768
+    },
+    {
+      "type": "node",
+      "id": 5410372119,
+      "lat": 10.981852,
+      "lon": -74.8038119
+    },
+    {
+      "type": "node",
+      "id": 5410372120,
+      "lat": 10.9818118,
+      "lon": -74.8038113
+    },
+    {
+      "type": "node",
+      "id": 5410373321,
+      "lat": 10.9817304,
+      "lon": -74.8032863
+    },
+    {
+      "type": "node",
+      "id": 5410373322,
+      "lat": 10.9819792,
+      "lon": -74.803289
+    },
+    {
+      "type": "node",
+      "id": 5410372110,
+      "lat": 10.9824613,
+      "lon": -74.8027456
+    },
+    {
+      "type": "node",
+      "id": 4137536453,
+      "lat": 10.9928533,
+      "lon": -74.8124858
+    },
+    {
+      "type": "node",
+      "id": 4137536454,
+      "lat": 10.9927608,
+      "lon": -74.8121315
+    },
+    {
+      "type": "node",
+      "id": 4137553442,
+      "lat": 10.9930716,
+      "lon": -74.8124036
+    },
+    {
+      "type": "node",
+      "id": 4137553443,
+      "lat": 10.9927662,
+      "lon": -74.8116445
+    },
+    {
+      "type": "node",
+      "id": 4137553444,
+      "lat": 10.9926266,
+      "lon": -74.8116405
+    },
+    {
+      "type": "node",
+      "id": 4137553445,
+      "lat": 10.9925253,
+      "lon": -74.8119114
+    },
+    {
+      "type": "node",
+      "id": 4137553446,
+      "lat": 10.992707,
+      "lon": -74.8119624
+    },
+    {
+      "type": "node",
+      "id": 5413255737,
+      "lat": 10.9929307,
+      "lon": -74.8120666
+    },
+    {
+      "type": "node",
+      "id": 5413255738,
+      "lat": 10.9927319,
+      "lon": -74.8116146
+    },
+    {
+      "type": "node",
+      "id": 3435845690,
+      "lat": 10.9905764,
+      "lon": -74.805599
+    },
+    {
+      "type": "node",
+      "id": 3435856883,
+      "lat": 10.9905578,
+      "lon": -74.8056618
+    },
+    {
+      "type": "node",
+      "id": 3435856884,
+      "lat": 10.9903418,
+      "lon": -74.8057839
+    },
+    {
+      "type": "node",
+      "id": 4412304800,
+      "lat": 10.9902387,
+      "lon": -74.8055957
+    },
+    {
+      "type": "node",
+      "id": 4412304801,
+      "lat": 10.9904968,
+      "lon": -74.8054522
+    },
+    {
+      "type": "node",
+      "id": 4116826387,
+      "lat": 10.9956929,
+      "lon": -74.8029196
+    },
+    {
+      "type": "node",
+      "id": 4116826690,
+      "lat": 10.9951192,
+      "lon": -74.8033123
+    },
+    {
+      "type": "node",
+      "id": 4116826692,
+      "lat": 10.9953877,
+      "lon": -74.8030548
+    },
+    {
+      "type": "node",
+      "id": 4116826388,
+      "lat": 10.9953614,
+      "lon": -74.8023279
+    },
+    {
+      "type": "node",
+      "id": 4116826689,
+      "lat": 10.9947453,
+      "lon": -74.8026498
+    },
+    {
+      "type": "node",
+      "id": 5412801189,
+      "lat": 11.0016102,
+      "lon": -74.8158954
+    }
+  ]
+}
