@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <title>IPS</title>
-    </head>
-<body>
+
+    {% extends 'ips/base.html' %}
+    {% block closest_ips %}
+
     <h1>Ips cercanas:</h1>
     {% if ips %}
     <ul>
@@ -15,5 +12,9 @@
     {% endfor %}
     </ul>
     {% endif %}
-</body>
-</html>
+
+    {% endblock closest_ips %}
+
+   
+       
+   
