@@ -16,9 +16,12 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from ips import views
+from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 
 urlpatterns = [
     path('', views.Initial),
     path('ips',views.Home, name="ips"),
     path('admin/', admin.site.urls),
 ]
+
+urlpatterns+= staticfiles_urlpatterns()

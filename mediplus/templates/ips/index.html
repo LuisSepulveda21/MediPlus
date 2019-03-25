@@ -1,6 +1,11 @@
 
+
     {% extends 'ips/base.html' %}
+
+    {% load static from staticfiles %}
     {% block closest_ips %}
+
+
 
     <h1>Ips cercanas:</h1>
     {% if ips %}
@@ -15,6 +20,58 @@
 
     {% endblock closest_ips %}
 
+    
+    {% block show_map %}
+
+    {% load leaflet_tags %}
+    {% leaflet_js %}
+    {% leaflet_css %}
+
+    <div>
+        {% leaflet_map "main" callback="map_init" %}
+    </div>
+
+    <script type="text/javascript">
+        function map_init(map, options) {
+            var HospitalIcon = L.icon({
+            iconUrl: "{% static 'img/hospital_icon.png'  %}",
+
+            iconSize:     [35, 35], // size of the icon
+            shadowSize:   [50, 64], // size of the shadow
+            iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
+            shadowAnchor: [4, 62],  // the same for the shadow
+            popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+            });
+
+            var UserIcon = L.icon({
+            iconUrl: "{% static 'img/user_icon.png'  %}",
+
+            iconSize:     [35, 35], // size of the icon
+            shadowSize:   [50, 64], // size of the shadow
+            iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
+            shadowAnchor: [4, 62],  // the same for the shadow
+            popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+            });
+
+            //initialize my location
+            var lon = "{{ location.x }}";
+            var lat = "{{ location.y }}";
+            // zoom to point & add it to map
+            L.marker([lat, lon], {icon: UserIcon}).addTo(map);
+            map.setView([lat, lon], 14);
+
+            {% for ips in ips %}
+            // get point lat and lonn
+            var num_ips = "{{ips.name}}";
+            console.log(num_ips)
+            var lon = "{{ ips.location.x }}";
+            var lat = "{{ ips.location.y }}";
+            L.marker([lat, lon], {icon: HospitalIcon}).addTo(map).bindPopup("{{ips.name}}")
+            .openPopup();;
+            {% endfor %}
+        }
+    </script>
    
+    {% endblock show_map %}
        
    

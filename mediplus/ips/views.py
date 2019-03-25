@@ -17,6 +17,8 @@ from django.http import HttpResponse
 
 
 queryset = None
+user_location = None
+
 
 def Initial(request):
     return render(request, 'ips/base.html')
@@ -26,11 +28,12 @@ def Home(request):
     if (request.GET.get('lat')is not None and request.GET.get('lon')is not None):
         latitude = float(request.GET.get('lat'))
         longitude = float(request.GET.get('lon'))
+        global user_location
         user_location = Point(longitude, latitude, srid = 4326)
         global queryset
         queryset = ips.objects.annotate(distance=Distance('location', user_location) ).order_by('distance')[0:3]
-    
-    return render(request, 'ips/index.html', {'ips': queryset})
+
+    return render(request, 'ips/index.html', {'ips': queryset, 'location': user_location})
 
 """ class Home(generic.ListView):
     "Obtener latitud y longitud basado en GPS"
